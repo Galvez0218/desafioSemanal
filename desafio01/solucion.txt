@@ -1,0 +1,16 @@
+¡La repuesta correcta es que solo debemos abrir UNA caja!
+
+Veamos los factores importantes para esta decisión:
+
+-- Existen tres cajas con etiquetas, pero ninguna etiqueta coincide con el contenido de la caja.
+-- Imaginemos que abrimos la caja que tiene la etiqueta de Peras y dentro de la caja vemos Manzanas.
+-- Luego de ver el contenido de esta primera caja (en este caso, Manzanas), voy a la caja que tenga la etiqueta de esa 
+    fruta (Manzanas) y se la quito para colocar la etiqueta anterior (siguiendo el ejemplo: Peras).
+-- Teniendo esto en cuenta, solo nos quedan dos cajas (una que tenia la etiqueta de manzanas y la que permanece con las 
+    etiquetas de naranja).
+-- Finalmente solo tenemos que intercambiar las etiquetas de las cajas restantes… ¡y listo!
+
+No te preocupes si elegiste una opción incorrecta. Recuerda que el pensamiento lógico y la programación son una
+habilidad que se adquiere con la práctica. ¡Tienes muchos más ejercicios para seguir entrenando tu cerebro!
+
+Nos vemos en el próximo reto (spoiler: vamos a trabajar con operaciones matemáticas).
