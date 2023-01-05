@@ -1,0 +1,26 @@
+Pedro
+Jose
+Miguel
+Franciso
+
+Respuesta correcta: Pedro, José, Miguel y Francisco.
+
+¿Cómo llegamos a esta solución?
+
+-- El conductor José ha llegado justo detrás de Pedro, por lo que ya tenemos las dos primeros posiciones → Pedro y José.
+-- Miguel ha llegado en medio de Francisco y José. Este último conductor ya tiene su posición asignada, por lo que solo 
+nos falta Miguel por agregar seguido del conductor Francisco, así que tenemos los dos corredores restantes ya organizados 
+→ Miguel, Francisco (recuerda que nunca nos especificaron quién llegó primero entre Francisco y Jose, solo sabíamos 
+    que Miguel había llegado entre ellos dos).
+-- Finalmente, el orden es:
+1 Pedro
+2 José
+3 Miguel
+4 Francisco
+¡Muy bien! Este desafío no solo nos exigió trabajar nuestro pensamiento lógico, sino también una buena atención al 
+detalle y comprensión lectora.
+
+El próximo desafío es un poco parecido al de encontrar la operación oculta que resolvimos anteriormente, pero esta vez 
+con un nuevo grado de dificultad. ¡Nos vemos allá!
+
+
