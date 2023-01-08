@@ -1,0 +1,29 @@
+La clave para esto es que tenga en mente la ley de los signos, los cuales se deben resolver tomando en cuenta el 
+siguiente orden:
+
+( * ) - Producto
+( ÷ ) - División
+( + ) - Suma
+( - ) - Resta
+La solución correcta es:
+
+Resuelve el producto
+
+12 + 35 - 55 ÷ 11 + 9
+
+Luego, continúa con la división
+
+12 + 35 - 5 + 9
+
+Realiza las sumas
+
+56 - 5
+
+Finalmente, las restas.
+
+El resultado es: 51
+
+¡Muy bien! Este desafío nos permitió recordar que el pensamiento lógico y la programación son una habilidad que se 
+adquieren con la práctica. ¡Tienes muchos más ejercicios para seguir entrenando tu cerebro!
+
+
