@@ -18,7 +18,7 @@ Luego, continúa con la división
 Realiza las sumas
 
 56 - 5
-
+    
 Finalmente, las restas.
 
 El resultado es: 51

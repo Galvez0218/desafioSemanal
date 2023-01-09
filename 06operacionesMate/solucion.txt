@@ -1,0 +1,28 @@
+Puedes resolverlo aplicando diferentes operaciones para llegar a la solución, te dejo dos soluciones:
+
+Primera solución
+
+(3x2) + 3 = 9 : (3-2) = 1 → 91
+
+(5x4) + 5 = 25 : (5-4) = 1 → 251
+
+(9x3) + 9 = 36 : (9-3) = 6 → 366
+
+(8x6) + 8 = 56 : (8-6) = 2 → 562
+
+Segunda solución
+
+3 (2+1) = 9 : (3-2) = 1 → 91
+
+5 (4+1) = 25 : (5-4) = 1 → 251
+
+9 (3+1) = 36 : (9-3) = 6 → 366
+
+8 (6+1) = 56 : (8-6) = 2 → 562
+
+No te preocupes si elegiste una opción incorrecta. Recuerda que el pensamiento lógico y la programación son una habilidad 
+que se adquiere con la práctica. ¡Tienes muchos más ejercicios para seguir entrenando tu cerebro!
+
+Nos vemos en el próximo reto (spoiler: vamos a trabajar con Figuras lógicas).
+
+
